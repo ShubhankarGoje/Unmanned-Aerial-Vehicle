@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+<node pkg="vitarana_drone" type="attitude_controller.py" name="attitude_controller" output="screen"/>
+<node pkg="vitarana_drone" type="position_controller.py" name="position_controller" output="screen"/>
+<node pkg="vitarana_drone" type="qr_detect.py" name="qr_detect" output="screen"/>
+<node pkg="vitarana_drone" type="mnspd.py" name="mnspd" output="screen"/>
+<node pkg="vitarana_drone" type="detect_marker_cascade.py" name="detect_marker_cascade" output="screen"/>
+</launch>

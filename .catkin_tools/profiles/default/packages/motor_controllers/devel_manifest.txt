@@ -1,0 +1,12 @@
+cusub-develop/cusub_common/motor_controllers
+/home/shubhankargoje/catkin_ws/devel/.private/motor_controllers/cmake.lock /home/shubhankargoje/catkin_ws/devel/./cmake.lock
+/home/shubhankargoje/catkin_ws/devel/.private/motor_controllers/share/motor_controllers/docs/BangBangConfig.wikidoc /home/shubhankargoje/catkin_ws/devel/share/motor_controllers/docs/BangBangConfig.wikidoc
+/home/shubhankargoje/catkin_ws/devel/.private/motor_controllers/share/motor_controllers/docs/BangBangConfig-usage.dox /home/shubhankargoje/catkin_ws/devel/share/motor_controllers/docs/BangBangConfig-usage.dox
+/home/shubhankargoje/catkin_ws/devel/.private/motor_controllers/share/motor_controllers/docs/BangBangConfig.dox /home/shubhankargoje/catkin_ws/devel/share/motor_controllers/docs/BangBangConfig.dox
+/home/shubhankargoje/catkin_ws/devel/.private/motor_controllers/share/motor_controllers/cmake/motor_controllersConfig-version.cmake /home/shubhankargoje/catkin_ws/devel/share/motor_controllers/cmake/motor_controllersConfig-version.cmake
+/home/shubhankargoje/catkin_ws/devel/.private/motor_controllers/share/motor_controllers/cmake/motor_controllersConfig.cmake /home/shubhankargoje/catkin_ws/devel/share/motor_controllers/cmake/motor_controllersConfig.cmake
+/home/shubhankargoje/catkin_ws/devel/.private/motor_controllers/lib/pkgconfig/motor_controllers.pc /home/shubhankargoje/catkin_ws/devel/lib/pkgconfig/motor_controllers.pc
+/home/shubhankargoje/catkin_ws/devel/.private/motor_controllers/lib/python2.7/dist-packages/motor_controllers/__init__.py /home/shubhankargoje/catkin_ws/devel/lib/python2.7/dist-packages/motor_controllers/__init__.py
+/home/shubhankargoje/catkin_ws/devel/.private/motor_controllers/lib/python2.7/dist-packages/motor_controllers/cfg/BangBangConfig.py /home/shubhankargoje/catkin_ws/devel/lib/python2.7/dist-packages/motor_controllers/cfg/BangBangConfig.py
+/home/shubhankargoje/catkin_ws/devel/.private/motor_controllers/lib/python2.7/dist-packages/motor_controllers/cfg/__init__.py /home/shubhankargoje/catkin_ws/devel/lib/python2.7/dist-packages/motor_controllers/cfg/__init__.py
+/home/shubhankargoje/catkin_ws/devel/.private/motor_controllers/include/motor_controllers/BangBangConfig.h /home/shubhankargoje/catkin_ws/devel/include/motor_controllers/BangBangConfig.h

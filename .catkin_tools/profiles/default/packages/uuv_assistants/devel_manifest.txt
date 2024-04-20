@@ -1,0 +1,5 @@
+cusub/cusub_sim/uuv_simulator/uuv_assistants
+/home/shubhankargoje/catkin_ws/devel/.private/uuv_assistants/cmake.lock /home/shubhankargoje/catkin_ws/devel/./cmake.lock
+/home/shubhankargoje/catkin_ws/devel/.private/uuv_assistants/share/uuv_assistants/cmake/uuv_assistantsConfig-version.cmake /home/shubhankargoje/catkin_ws/devel/share/uuv_assistants/cmake/uuv_assistantsConfig-version.cmake
+/home/shubhankargoje/catkin_ws/devel/.private/uuv_assistants/share/uuv_assistants/cmake/uuv_assistantsConfig.cmake /home/shubhankargoje/catkin_ws/devel/share/uuv_assistants/cmake/uuv_assistantsConfig.cmake
+/home/shubhankargoje/catkin_ws/devel/.private/uuv_assistants/lib/pkgconfig/uuv_assistants.pc /home/shubhankargoje/catkin_ws/devel/lib/pkgconfig/uuv_assistants.pc

@@ -1,0 +1,8 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~deadzone_size" : \b [double] Size of deadzone in state units min: 0.0, default: 500.0, max: 1000.0
+- \b "~left_bang_effort" : \b [double] Left bang control effort output min: -100.0, default: 0.0, max: 100.0
+- \b "~right_bang_effort" : \b [double] Right bang control effort output min: -100.0, default: 0.0, max: 100.0
+

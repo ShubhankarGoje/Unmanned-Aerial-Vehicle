@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/shubhankargoje/catkin_ws/devel/.private/qt_console/setup.sh

@@ -1,0 +1,6 @@
+devel_space: /home/shubhankargoje/catkin_ws/devel
+install: false
+install_space: /home/shubhankargoje/catkin_ws/install
+profile: default
+source_space: /home/shubhankargoje/catkin_ws/src
+workspace: /home/shubhankargoje/catkin_ws

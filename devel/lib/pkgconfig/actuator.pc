@@ -1,0 +1,8 @@
+prefix=/home/shubhankargoje/catkin_ws/devel/.private/actuator
+
+Name: actuator
+Description: Description of actuator
+Version: 0.0.0
+Cflags: -I/home/shubhankargoje/catkin_ws/devel/.private/actuator/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,5 @@
+cusub-develop/cusub_cortex/cusub_cortex_bringup
+/home/shubhankargoje/catkin_ws/devel/.private/cusub_cortex_bringup/cmake.lock /home/shubhankargoje/catkin_ws/devel/./cmake.lock
+/home/shubhankargoje/catkin_ws/devel/.private/cusub_cortex_bringup/share/cusub_cortex_bringup/cmake/cusub_cortex_bringupConfig.cmake /home/shubhankargoje/catkin_ws/devel/share/cusub_cortex_bringup/cmake/cusub_cortex_bringupConfig.cmake
+/home/shubhankargoje/catkin_ws/devel/.private/cusub_cortex_bringup/share/cusub_cortex_bringup/cmake/cusub_cortex_bringupConfig-version.cmake /home/shubhankargoje/catkin_ws/devel/share/cusub_cortex_bringup/cmake/cusub_cortex_bringupConfig-version.cmake
+/home/shubhankargoje/catkin_ws/devel/.private/cusub_cortex_bringup/lib/pkgconfig/cusub_cortex_bringup.pc /home/shubhankargoje/catkin_ws/devel/lib/pkgconfig/cusub_cortex_bringup.pc

@@ -1,0 +1,8 @@
+prefix=/home/shubhankargoje/catkin_ws/devel/.private/uuv_world_plugins
+
+Name: uuv_world_plugins
+Description: Description of uuv_world_plugins
+Version: 0.6.8
+Cflags: -I/home/shubhankargoje/catkin_ws/src/cusub/cusub_sim/uuv_simulator/uuv_world_plugins/uuv_world_plugins/include -I/usr/include -I/usr/include/gazebo-9 -I/usr/include/bullet -I/usr/include/simbody -I/usr/include/sdformat-6.0 -I/usr/include/ignition/math4 -I/usr/include/OGRE -I/usr/include/OGRE/Terrain -I/usr/include/OGRE/Paging -I/usr/include/ignition/transport4 -I/usr/include/ignition/msgs1 -I/usr/include/ignition/common1 -I/usr/include/ignition/fuel_tools1
+Libs: -L${prefix}/lib -luuv_underwater_current_plugin
+Requires: gazebo_msgs

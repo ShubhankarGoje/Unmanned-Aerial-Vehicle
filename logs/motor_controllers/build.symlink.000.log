@@ -1,0 +1,10 @@
+Symlinking /home/shubhankargoje/catkin_ws/devel/share/motor_controllers/docs/BangBangConfig.wikidoc
+Symlinking /home/shubhankargoje/catkin_ws/devel/share/motor_controllers/docs/BangBangConfig-usage.dox
+Symlinking /home/shubhankargoje/catkin_ws/devel/share/motor_controllers/docs/BangBangConfig.dox
+Symlinking /home/shubhankargoje/catkin_ws/devel/share/motor_controllers/cmake/motor_controllersConfig-version.cmake
+Symlinking /home/shubhankargoje/catkin_ws/devel/share/motor_controllers/cmake/motor_controllersConfig.cmake
+Symlinking /home/shubhankargoje/catkin_ws/devel/lib/pkgconfig/motor_controllers.pc
+Symlinking /home/shubhankargoje/catkin_ws/devel/lib/python2.7/dist-packages/motor_controllers/__init__.py
+Symlinking /home/shubhankargoje/catkin_ws/devel/lib/python2.7/dist-packages/motor_controllers/cfg/BangBangConfig.py
+Symlinking /home/shubhankargoje/catkin_ws/devel/lib/python2.7/dist-packages/motor_controllers/cfg/__init__.py
+Symlinking /home/shubhankargoje/catkin_ws/devel/include/motor_controllers/BangBangConfig.h

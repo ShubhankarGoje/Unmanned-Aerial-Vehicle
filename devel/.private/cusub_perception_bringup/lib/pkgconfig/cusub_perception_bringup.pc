@@ -1,0 +1,8 @@
+prefix=/home/shubhankargoje/catkin_ws/devel/.private/cusub_perception_bringup
+
+Name: cusub_perception_bringup
+Description: Description of cusub_perception_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

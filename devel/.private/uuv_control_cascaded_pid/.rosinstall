@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/shubhankargoje/catkin_ws/devel/.private/uuv_control_cascaded_pid/setup.sh

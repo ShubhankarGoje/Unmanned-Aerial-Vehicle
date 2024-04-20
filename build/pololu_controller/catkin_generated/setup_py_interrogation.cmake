@@ -1,0 +1,7 @@
+set(pololu_controller_SETUP_PY_SETUP_MODULE "distutils.core")
+set(pololu_controller_SETUP_PY_VERSION "0.0.0")
+set(pololu_controller_SETUP_PY_SCRIPTS "")
+set(pololu_controller_SETUP_PY_PACKAGES "pololu_controller")
+set(pololu_controller_SETUP_PY_PACKAGE_DIRS "src/pololu_controller")
+set(pololu_controller_SETUP_PY_MODULES "")
+set(pololu_controller_SETUP_PY_MODULE_DIRS "")

@@ -1,0 +1,8 @@
+prefix=/home/shubhankargoje/catkin_ws/devel/.private/pololu_controller
+
+Name: pololu_controller
+Description: Description of pololu_controller
+Version: 0.0.0
+Cflags: -I/home/shubhankargoje/catkin_ws/devel/.private/pololu_controller/include
+Libs: -L${prefix}/lib -lpololu_controller
+Requires: message_runtime

@@ -1,0 +1,4 @@
+Symlinking /home/shubhankargoje/catkin_ws/devel/share/planner/cmake/plannerConfig.cmake
+Symlinking /home/shubhankargoje/catkin_ws/devel/share/planner/cmake/plannerConfig-version.cmake
+Symlinking /home/shubhankargoje/catkin_ws/devel/lib/pkgconfig/planner.pc
+Symlinking /home/shubhankargoje/catkin_ws/devel/lib/python2.7/dist-packages/planner/__init__.py

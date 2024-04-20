@@ -1,0 +1,5 @@
+cusub-develop/cusub_perception/darknet_config
+/home/shubhankargoje/catkin_ws/devel/.private/darknet_config/cmake.lock /home/shubhankargoje/catkin_ws/devel/./cmake.lock
+/home/shubhankargoje/catkin_ws/devel/.private/darknet_config/share/darknet_config/cmake/darknet_configConfig.cmake /home/shubhankargoje/catkin_ws/devel/share/darknet_config/cmake/darknet_configConfig.cmake
+/home/shubhankargoje/catkin_ws/devel/.private/darknet_config/share/darknet_config/cmake/darknet_configConfig-version.cmake /home/shubhankargoje/catkin_ws/devel/share/darknet_config/cmake/darknet_configConfig-version.cmake
+/home/shubhankargoje/catkin_ws/devel/.private/darknet_config/lib/pkgconfig/darknet_config.pc /home/shubhankargoje/catkin_ws/devel/lib/pkgconfig/darknet_config.pc

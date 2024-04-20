@@ -1,0 +1,8 @@
+prefix=/home/shubhankargoje/catkin_ws/devel/.private/uuv_assistants
+
+Name: uuv_assistants
+Description: Description of uuv_assistants
+Version: 0.6.8
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

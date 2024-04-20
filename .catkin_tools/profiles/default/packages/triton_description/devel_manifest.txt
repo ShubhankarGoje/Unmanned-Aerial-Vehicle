@@ -1,0 +1,5 @@
+cusub/cusub_sim/triton_description
+/home/shubhankargoje/catkin_ws/devel/.private/triton_description/cmake.lock /home/shubhankargoje/catkin_ws/devel/./cmake.lock
+/home/shubhankargoje/catkin_ws/devel/.private/triton_description/share/triton_description/cmake/triton_descriptionConfig.cmake /home/shubhankargoje/catkin_ws/devel/share/triton_description/cmake/triton_descriptionConfig.cmake
+/home/shubhankargoje/catkin_ws/devel/.private/triton_description/share/triton_description/cmake/triton_descriptionConfig-version.cmake /home/shubhankargoje/catkin_ws/devel/share/triton_description/cmake/triton_descriptionConfig-version.cmake
+/home/shubhankargoje/catkin_ws/devel/.private/triton_description/lib/pkgconfig/triton_description.pc /home/shubhankargoje/catkin_ws/devel/lib/pkgconfig/triton_description.pc

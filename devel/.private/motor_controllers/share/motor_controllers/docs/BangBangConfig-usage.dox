@@ -1,0 +1,9 @@
+\subsubsection usage Usage
+\verbatim
+<node name="bang_bang" pkg="motor_controllers" type="bang_bang">
+  <param name="deadzone_size" type="double" value="500.0" />
+  <param name="left_bang_effort" type="double" value="0.0" />
+  <param name="right_bang_effort" type="double" value="0.0" />
+</node>
+\endverbatim
+

@@ -1,0 +1,8 @@
+prefix=/home/shubhankargoje/catkin_ws/devel/.private/qt_console
+
+Name: qt_console
+Description: Description of qt_console
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,10 @@
+(cl:defpackage actuator-srv
+  (:use )
+  (:export
+   "ACTIVATEACTUATOR"
+   "<ACTIVATEACTUATOR-REQUEST>"
+   "ACTIVATEACTUATOR-REQUEST"
+   "<ACTIVATEACTUATOR-RESPONSE>"
+   "ACTIVATEACTUATOR-RESPONSE"
+  ))
+

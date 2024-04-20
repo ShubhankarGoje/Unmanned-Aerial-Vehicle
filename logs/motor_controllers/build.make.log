@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target motor_controllers_gencfg[0m
+[100%] [34m[1mGenerating dynamic reconfigure files from cfg/BangBang.cfg: /home/shubhankargoje/catkin_ws/devel/.private/motor_controllers/include/motor_controllers/BangBangConfig.h /home/shubhankargoje/catkin_ws/devel/.private/motor_controllers/lib/python2.7/dist-packages/motor_controllers/cfg/BangBangConfig.py[0m
+Generating reconfiguration files for BangBang in motor_controllers
+Wrote header file in /home/shubhankargoje/catkin_ws/devel/.private/motor_controllers/include/motor_controllers/BangBangConfig.h
+[100%] Built target motor_controllers_gencfg

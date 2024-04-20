@@ -1,0 +1,8 @@
+prefix=/home/shubhankargoje/catkin_ws/devel/.private/darknet_multiplexer_msgs
+
+Name: darknet_multiplexer_msgs
+Description: Description of darknet_multiplexer_msgs
+Version: 0.0.0
+Cflags: -I/home/shubhankargoje/catkin_ws/devel/.private/darknet_multiplexer_msgs/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
